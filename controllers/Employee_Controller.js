@@ -84,6 +84,7 @@ function handleValidationError(err, body) {
             default:
                 break;
         }
+        
     }
 }
 
